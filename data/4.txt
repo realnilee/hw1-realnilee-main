@@ -1,0 +1,158 @@
+In the role of the 'Destined One', _Black Myth: Wukong_ takes players on a cinematic, story-driven experience in an Action RPG based on an adaptation of _Journey To The West._ Using dynamic combat and skills to defeat formidable enemies, cunning spirits, and the mythic Yaoguai, players traverse through breathtaking landscapes, from lush forests to towering mountains and mystical temples.
+
+While there are elements of great design by developer GameScience - engaging narrative and varied boss fights especially - **_Black Myth: Wukong_ also presents issues that can severely impact the gameplay experience and reliability of the game**. Taking into account its controversies with the current modern gaming audience and expectations of soulslike games, whether _Black Myth: Wukong_ lives up to its hype is questionable at best.
+
+**Pros**
+
+-   Combat is fluid and fun
+-   Cinematography can be breathtaking at times
+-   Great diversity in items and mechanics
+
+**Cons**
+
+-   Game performance is unpolished
+-   Lacking in inclusivity and diversity
+-   Gameplay becomes repetitive over time
+
+## A Cinematic Masterpiece With Poor Performance
+
+### Cinematography & Graphics Try To Carry The Weight To Varying Levels of Success
+
+In its optimal settings, _Black Myth: Wukong_ is a cinematic masterpiece, with stunning and captivating visuals that truly immerse you in its world. It has achieved high amounts of detail and beauty in the mundane, as well as its vast landscapes.
+
+From the reflections in rippling water to capturing the veins on every single tiny leaf of flora surrounding you, it's a shame that, due to its appalling performance, it isn't possible to see and appreciate these visuals.
+
+Black Myth: Wukong's new gameplay trailer ends by advising players to kill, steal, lie, and lust. This advice shows Wukong will be an unlikely hero.
+
+These fatal flaws consist of frequent stuttering, severe lag, desynced audio, and terrible frame rates. Aside from the frustrating amount of stuttering, the frequent cutting of audio also heavily impacts your experience, especially during boss fights if you're relying on audio cues.
+
+With the recommended specs for the game that should allow for optimal performance, many areas from Chapter 2 onwards are entirely unplayable and become only marginally better when on the lowest graphic settings.
+
+_Black Myth: Wukong_ recommends the minimum Processor: Intel Core i5-8400 / AMD Ryzen 5 1600. Their recommended Processor, which I own and used to test the game, is Intel Core i7-9700.
+
+As it is currently, unless these issues are subject to change in an upcoming patch, **I don't see many players being able to run _Black Myth: Wukong_ if it is this problematic on the recommended specs**. Should GameScience fix these issues, it would certainly change our final scoring.
+
+## Combat Is Engaging & Addictive
+
+### Players Have Vast Abilities & Skills
+
+**One of the best features of _Black Myth: Wukong_ is its combat**, showcasing an extensive variety of abilities that players can select from and hone. In the main menu, you can put your levels, known as 'Sparks', into several categories. This consists of everything from Foundation skills, like Stamina, Martial Arts, and Survival, to Staff Stances, Mysticism, Spells, and more.
+
+At first glance, this can seem overwhelming, as players have so much to consider when designing their general combat style. But this isn't necessarily a bad thing, as it allows you to truly customize and create a build that best fits your playstyle.
+
+The leveling system allows for so much freedom, and players can also reset their Sparks and redistribute them whenever they please.
+
+As for how combat performs itself, players only use a staff as their main weapon, which is clearly an intentional move by GameScience, wanting players to have a pure melee-focused fighting experience. With the abilities and skills available aside from your weapon, and with all the varied combos and stances that players can channel through their staff, **combat isn't repetitive or boring, but extremely fun, engaging, and satisfying**.
+
+One unique feature that _Black Myth: Wukong_ introduces, is that there is no blocking or parry system (aside from a spell with a cooldown), making you rely solely on dodging. While this is an integral skill in many soulslike games, not having any other means for defense forces players to learn how and when to effectively deal damage while keeping themselves safe. **This vulnerability adds a challenging layer to boss fights, penalizing players who haven't mastered this skill.**
+
+Each spell or ability has a unique effect that transcends surface-level tricks and instead has utility and serves a purpose in battle.
+
+The main downside to how combat performs in _Black Myth: Wukong_ is that **most Light Attacks feel somewhat weightless and static, and can be spam-clicked to take enemies down**. While this isn't the case with bosses, it is mainly the Heavy Attacks and combos that feel impactful when inflicting damage from their uses.
+
+Moreover, there seem to be no stealth-based abilities that would thematically fit in the realm of this soulslike world. I would have enjoyed being able to sneak up behind enemies and deal critical hits with my staff, or climb up onto higher ground and deal a quiet jump attack. This seems like somewhat of a missed opportunity, given the landscape and environment surrounding you.
+
+## Black Myth: Wukong Does Not Make Use Of Its Environment
+
+### Hugely Lacks Mobility & Environmental Movement
+
+While _Black Myth: Wukong_ did a beautiful job of creating an immersive and stunningly captivating environment with vast landscapes, **the main criticism lies with its interactive limitations.** The majority of the landscape cannot be utilized, limiting players' mobility and maneuverability while exploring.
+
+Considering that the Destined One is a monkey, _Black Myth: Wukong_ missed a wealth of opportunities in exploration that would have transformed the game into a much richer and fun experience when it comes to mobility and movement.
+
+The environment makes it far more tedious to get to certain bosses.
+
+**The inability use the terrain to your advantage and demonstrate parkour abilities is a huge shame** when the world appears to be so interactive. The restriction of movement makes gameplay fairly linear, in which the environment purely serves as a means to get from place to place, with pretty views in the background.
+
+Chapter 2 does provide a much more explorative and open space, feeling more like an RPG, but it is still fairly vacant and the Destined One's lack of maneuverability and mobility is all the same, but in an expanded landscape. On the surface, there's a lot more to see, but instead, the environment makes it far more tedious to get to certain bosses, while unable to traverse them properly.
+
+## Boss Arenas Are Equally Shallow
+
+### Bosses Are Easier Than Expected
+
+**Moreover, bosses also don't seem to use their environment very much**, except Lingxuzi and Whiteclad Noble bosses in Chapter 1 - but even so, to a limited degree. Boss areas serve as nothing more than an arena. It is extremely contrarian to how the arenas are designed, as they appear to have utility, but don't at all.
+
+While Lingxuzi does jump atop the roofs of some surrounding buildings, it is just so that he can gain the high ground before lunging at you, which isn't a move that is unique to how the environment can be used effectively. However, Whiteclad Noble uses his environment more effectively, dipping in and out of the water and utilizing it in his inherent attacks.
+
+Aside from the many missed environmental opportunities, there are also many invisible walls that players cannot bypass. For a game that stresses the freedom of movement, this also feels bizarre. These walls also impact bosses as well, making much of their movement appear unnatural and somewhat choppy.
+
+Initially, I thought that players could take advantage of the environment by seeking protection from surrounding structures, but this feature seems to be inconsistent. Sometimes, a large rock or boulder can block incoming attacks from bosses, while at other times, this won't work, marring the experience and making fights frustrating.
+
+## Environmental Choices Don't Work Out
+
+### The Problematic Placement Of Shrines
+
+Another problem with _Black Myth: Wukong_'s environmental design is its placement of Shrines. These vital rest points are inconsistently placed, showcasing a lack of consideration and strategic thought in how players can most effectively travel.
+
+**_Black Myth: Wukong_ artificially pads its run time out by introducing unnecessary convoluted challenges between Shrines**, often placing them extremely far away from boss fights, while you must face enemies along the way. This results in players entering these confrontations with reduced health, or skills under cooldowns, having used them in previous encounters.
+
+When facing the Stone Vanguard boss in Chapter 2, you must first defeat several tough enemies within a ruined village and defeat the Tiger's Acolyte boss on the bridge. The Shrine to rest is just beside the next boss arena, but players cannot access it unless they defeat the second boss.
+
+While it is typical of soulslike games to have large combat areas between rest points, as they should, most boss arenas tend to have a rest point close enough to allow for swift travel, and to at least provide a way for you to face tougher foes fairly.
+
+The inconsistent placement of Shrines generally speaks to poor game design, as it feels that particular areas take far longer than they should to get through, making them feel more of a nuisance rather than interesting and fun to navigate. Some areas in Chapter 1 do place Shrines closer to boss fights, which shows that those placed too far have not been well-thought-out.
+
+## Enemy & Boss Encounters Are Thrilling But Repetitive
+
+### Enemies Have Predictable Moves
+
+When looking at field enemies, most are quite linear, possessing repetitive attacks and movesets. Similar to other RPGs like the _Assassin's Creed_ franchise, which are guilty of the following, **_Black Myth: Wukong_'s enemies often wait for you to finish fighting a single entity among a crowd**, before attempting to attack you.
+
+Occasionally, another enemy may chime in, but it isn't necessarily more challenging to fight crowds when, in soulslike games, enemies are usually not so forgiving. However, enemies do progressively become tougher at a natural rate as you progress in the game, exploring new moves, but they are still repetitive.
+
+They are only considered to be tougher because they tend to spam attack you more frequently than the lower-level enemies, showcasing that enemies don't actually fight smart or intrinsically become harder.
+
+## Design & Choreography Of Boss Fights
+
+### A Boss-Heavy Game
+
+**_Black Myth: Wukong_ is on par with larger soulslike games like _Elden Ring_ in how boss-heavy it is**, but then its run time is probably half the amount, if not less. This is because bosses are incredibly frequent and are not spaced apart very well, and therefore don't have much build-up or anticipation. Some soulslike fans may prefer not to have so much filler between boss fights, while others like to thoroughly explore and work their way up to a boss fight.
+
+Their spacing feels somewhat wasteful due to the inspired setting provided, and it would have been nice to incorporate more exploration between boss fights, rather than just serving to get you from place to place in a very linear way. As you progress to Chapter 2, bosses are slightly spaced out better, giving you more to do in between, but not by much.
+
+It is undeniable that many boss fights are fun, challenging, and engaging.
+
+It is undeniable that many boss fights are fun, challenging, and engaging, allowing players to use their skills in so many different ways to overcome particular opponents. One of my favorite fights in particular was against White Clad Noble, a water-Naga boss in Chapter 1, demonstrating a classic two-phase boss fight. With a variety of weapon abilities that are difficult to overcome, he forces you to time your dodging perfectly and learn the optimal times to attack.
+
+Among the many great bosses in _Black Myth: Wukong_, White Clad Noble is not very forgiving, and you experience the fight in a great setting that you can use to enhance your abilities if you utilize the right skills. The design and choreography of this boss fight have had a lot of thought put into it.
+
+Aside from a few exceptions, most boss patterns are quite forgiving, however, and **many bosses have predictable and repetitive movesets that are quite easy to learn, which can lead to fairly swift defeats**. As you progress, there are still many challenging and satisfying fights, and they become slightly less forgiving as you progress into Chapters 2 and beyond, but for soulslike bosses, they are probably the easiest to overcome.
+
+For those new to soulslike games, _Black Myth: Wukong_ is one of the best games to start with. It will allow you to learn the ropes, before advancing to much harder ones that truly showcase what it's like to go against a boss that severely punishes you for a single wrong move made.
+
+There are some aspects of gameplay against bosses that would seem intuitive but unfold quite differently in practice. For example, when bosses use AoE attacks that originate from the ground up, it would seem possible and natural to jump over them to prevent being hit. In some boss fights, such as against Black Wind King in Chapter 1, this doesn't seem possible, which may be attributed to temporary early-game bugs, or poor hitboxes.
+
+Many other inconsistencies of this nature seem like they should be accounted for. Another example is when fighting against the wolf boss in Chapter 1, Lingxuzi, who performs a bite attack that does not grab or even pierce the player, showcasing a lack of weight and complexity to their moves.
+
+Boss fights seem to be mainly two types; either big chunky bosses who attempt to grapple, thrash, and bash you, or quick, agile creatures that wield a weapon. However, each boss does have fairly unique attack moves, although they are still repetitive during the fight, and it's fairly easy to learn their attack patterns quickly after a few times facing them. **Overall, in spite of their flaws, boss fights are undoubtedly one of the best features of _Black Myth: Wukong_, providing you with an exhilarating experience.**
+
+## Largely Lacks Inclusion & Representation
+
+### Black Myth: Wukong Characters Lack Diversity
+
+While my analysis and review of _Black Myth: Wukong_ remain focused on gameplay, it's important to mention the controversies surrounding the game's studio and the **reports of misogyny and sexism from developers.** Playing as a female gamer allowed me to notice issues surrounding inclusion and representation.
+
+As far as Chapters 1 and 2, while characters are clearly fictitious and fantastical creatures, there were no female or feminine NPCs, enemies, or bosses present. The only exception, if you can call it 'female', is a boss named Mother of Stones in Chapter 2, which is nothing more than a still, glowing rock with no abilities, being guarded by other enemies.
+
+The lack of diversity and inclusivity resonates with the misogynistic comments reported to have been made by developers, which expressed disdain for women playing their games. Although _Black Myth: Wukong_ does have truly enjoyable moments, the underlying feeling that women aren't welcome in this world felt present throughout my gameplay experience.
+
+It's worth noting the game is based on the novel, _Journey To The West_, which does consist of a few important female characters. To not include any women or to only include a few in an adaptation meant for a modern audience is quite disconcerting.
+
+While this doesn't take away from the exhilaration and fun of boss fights themselves, women fans of soulslike games may have a different perspective, especially given that, according to reports, the developer also suggested that women aren't capable of enjoying or being skilled at these types of games.
+
+**The irony behind this sentiment is that _Black Myth: Wukong_ is among the easiest of soulslike games, and may have overestimated its ability to hang with them in terms of difficulty**. While thematically, and stylistically, it undoubtedly falls under this category, it does not quite fit the bill in the technical skills required, such as is achieved by games like _Elden Ring_, _Sekiro: Shadows Die Twice_, and many more.
+
+
+## Black Myth: Wukong Review Score
+
+### 3/5 - 'Very Good' By Screen Rant's Review Metric. Despite Its Flaws, Worth Trying
+
+**With the potential to have been one of the next best soulslike games and portraying a beloved cultural gem of a novel, _Black Myth: Wukong_ missed many opportunities** and has inherent issues that must be addressed and fixed to be considered a serious contender of other soulslikes. Should this be the case, I would bump the score up to 3.5 at least.
+
+While it has some exceptional features, including its visuals, combat design, and many extraordinarily exhilarating boss fights, as well as a compelling plot line, it is not enough to warrant a better score. Given that **most of its shortcomings lie in performance, diversity, and wasted environmental factors** that would have transformed it into something great, these are integral features that, at a fundamental level, all RPGs, especially soulslike ones, should encompass in their content.
+
+_Screen Rant was provided with early access and a PC code for **Black Myth: Wukong**, for the purpose of this review._
+
+Editor's note: The author's name has been removed for their safety.
+
+The studio behind Black Myth: Wukong, GameScience, has previously been accused of fostering a toxic environment for its workers. The 2023 allegations include sexualized comments against women, misogyny, fatphobia, and more. More details can be found here.

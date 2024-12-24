@@ -1,0 +1,61 @@
+Selling **_Concord_**, a task that might have been easy five years ago, feels like rolling a boulder up a hill in 2024. Developed by new studio Firewalk and published by PlayStation Studios, _Concord_ is a 5v5 hero shooter that riffs on _Guardians of the Galaxy_ with a cassette-era take on a pulpy space setting. It's a premise that could certainly work, but the prime cultural moment for something fitting that bill has already passed, and an aggressive slate of upcoming hero shooters like _Marvel Rivals_ and Valve's _Deadlock_ promises a lot of competition.
+
+**When it comes to the hero shooter staples, _Concord_ covers all the bases**. 16 characters divided into six different classes compete across several primary game modes — the team-based deathmatch Brawl, a control points scenario called Overrun, and a competitive tactical option labeled Rivalry. Each one will randomly play out as one of two versions that make minor tweaks to the formula, but there's nothing as radically different as a payload mode or free-for-all.
+
+**Pros**
+
+-   Has all the hero shooter staples you'd expect
+-   Focus on skills/gunplay having some nuance creates fun learning curve
+-   Gameplay modes are fun
+
+**Cons**
+
+-   Uninspiring design
+-   Restrictions on gameplay modes dull enjoyment
+-   Weird graphics decisions on PC
+
+## Familiar Elements With Minor Twists That Aren't Earth-Shattering
+
+### Don't Expect Anything Game-Changing From Concord
+
+It's difficult to discuss _Concord_ without talking about _Overwatch_, so it's best to get it out of the way early. _Concord_ feels like the hero shooter titan to a degree that most competitors don't, and perhaps even to a degree that _Overwatch 2_ doesn't. From the responsive gunplay to the movement and heft of the characters, it's all more or less in line, and **its minimal interest in over-stimulation feels refreshingly aligned with the original _Overwatch_ experience**.
+
+_Concord_ thoroughly fulfills the hero-swapping premise with an open queue and a flexible approach to roles in general that could help combat over-reliance on meta compositions. Rather than distinctions like DPS, tank, and support classes, divisions focus more on how characters poke at enemies, from Breachers like Star Child who can effectively lead charges to Haunts like It-Z who stay on the move. The unusual part is how **_Concord_ actively incentivizes hero-swapping with buffs that activate from participating in each role**, an interesting but weirdly appended mechanic that might end up being ignored by casual players.
+
+Character variants and custom roster building also emphasize the complexity of hero-swapping possibilities in _Concord._
+
+**Abilities follow in the line of games like _Valorant_ by being a bit more muted** in nature and effect. A lot of characters simply throw things, whether those are knives, grenades, or healing pads. It's satisfying whenever abilities resolve in a successful gameplay sequence, especially thanks to a recharge mechanic that requires kills to regain a lot of skill uses. Flashbanging an enemy as Haymar and combo-ing them with walls of fire and flaming projectiles is deeply satisfying. Some skills, however, end up feeling only mildly impactful or even completely irrelevant.
+
+## Balancing Modes Could Hurt A Good Gameplay Cadence
+
+### Casual Modes Are Fun But Kneecapped By Design Restriction
+
+Although _Concord_'s maps don't often naturally corral players in one direction, working with a team is important. High time-to-kill and a lack of abilities that quickly shatter health bars mean that picking off enemy players who aren't alone is a challenge without backup. Charging into the fray as Emari (essentially a redux of _Team Fortress 2_'s Heavy) can be fun, but standing behind a corner to buff high-damage teammates with her armor generator is an equally strong decision.
+
+_Concord_ isn't about constant showdowns, instead focusing on the ability to survive a confrontation and pick up the pieces before the next one. Healing pads and skills focus on gradated recharges rather than instant refills, and a number of expendable abilities are regained by picking up a drop after killing an enemy. **For those who enjoy gameplay that fluctuates in intensity, it's an engaging cadence**, although actually finding healing while learning the maps can sometimes feel like a wild goose chase.
+
+The biggest challenge for _Concord_ lies in its attempt to put an equal emphasis on both casual FPS brawls and tactical shooter matches, two things that reward different abilities in uneven ways. **At the moment, it feels like the game is balanced around Rivalry**, which was altered after launch to give extra XP in order to fix queues that were previously struggling to fill. One of Rivalry's two variants, Cargo Run, works like a bomb-planting extraction match. The other, Clash Point, simplifies things with one zone to control.
+
+Winning a round with a hero locks them out for future use, but building a custom crew with repeat heroes can get around this obstacle. Swapping, however, is incentivized by the buff-stacking system, which integrates more naturally in Rivalry than in casual mode. With careful flanking and team showdowns that tend to be more guided than the directionless arenas of other modes, abilities are more consistently relevant, and playing a slower tank no longer feels like punishment. Rivalry is relatively tactical without venturing into hyper-competitive territory, and it could be nice for those who like strategizing without sweating.
+
+## A Good-Looking Game With Caveats Aplenty
+
+### Excellent Graphics & Uninspiring Design Litter Concord
+
+Aesthetic is important for hero shooters, and _Concord_ may end up being fairly divisive in that realm. It's certainly visually polished, with gorgeous lighting and textures even on medium settings. Some maps show off these features well, while others feel blandly industrial. Character designs manage to avoid falling back on tropes for every hero, but few of them actually come across as particularly appealing, and the current roster of cosmetics is never interestingly transformative.
+
+The cast of characters is backed up by an emphasis on lore, and Firewalk is promising weekly cutscenes to keep that at the forefront. Information on the setting is reflected in-game through a Galactic Guide, which makes for decent reading while waiting for queues. Making the story interesting will require moving beyond its currently generic, quippy nature, however, and it might still be better to focus ongoing development on the game itself.
+
+There's one very baffling element of _Concord_ 's graphics settings, which is the lack of fullscreen resolution options on PC.
+
+**There's one very baffling element of _Concord_'s graphics settings, which is the lack of fullscreen resolution options on PC**. It's a fairly demanding title, so someone with a solid but unexceptional graphics card and a 4K monitor might have a better time running it with good settings on 1080p than with low ones in 4K. Achieving this in fullscreen can only be done by changing the display settings in the actual computer OS, a bizarre and frustrating requirement.
+
+_Concord_ also has a couple of control quirks on PC. The Dodge maneuver, which is highly relevant for one character, is bound to a double-tap of the shift key that's awkward and inconsistent to use.
+
+## Final Thoughts & Review Score
+
+### 3/5 - Solid, Or Good, By Screen Rant's Review Metric
+
+The upfront cost of _Concord_ might make it a hard sell in 2024, but it's certainly nice to play a live-service shooter that doesn't feel designed to ask for money at every turn. Everything in the game at the moment can at least be earned for free (with monetization presumably joining the game when the first season starts), although progression would feel better with some freedom of choice added in. The live-service element of the game will add heroes, maps, and more, and the focus on the lore promises a continuing story to come.
+
+Although _Concord_ is solid and polished on a basic level, it's faced with an uphill battle that it already seems to be losing. **A shotgun blast approach that attempts to hit the basic notes of every hero shooter prerogative makes it harder for it to do one thing in a truly fresh way**, and the casual modes would be more exciting with bigger abilities and maps with more interesting pressure points. The game's systems click in Rivalry and get the job done across the other game modes, but _Concord_ lacks the spark necessary to light much of a flame.
